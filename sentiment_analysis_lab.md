@@ -234,7 +234,7 @@ for topic_idx, topic in enumerate(lda.components_):
 ---
 
 ## Deliverables
-- Jupyter notebook or `.py` file with full implementation  
+  
 - Visualizations for TF-IDF and topic modeling  
 - Written answers to analysis questions  
 - Summary report (max 1 page)  
